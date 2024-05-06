@@ -15,8 +15,3 @@
 - 🖥️ **Backend:** Node.js, Express.js
 - 📦 **Database:** MongoDB
 - 🔧 **Tools & Others:** Git, VS Code, Postman, npm/yarn
-
-### Connect with Me
-- 📫 Feel free to reach out to me via [email](mailto:2140223@sliet.ac.in) for any collaboration or discussion.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kundank11) to stay updated with my professional journey.
-- 🐦 Follow me on [Twitter](https://twitter.com/kundan_k11) for tech tweets and random thoughts.
