@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kundan Kumar.
 
 ### About Me
-- 🌱 I'm a third-year ECE Undergrad.
+- 🌱 I'm a final-year ECE Undergrad.
 - 💻 Currently diving deep into Full Stack Web Development using the MERN stack.
 - 📚 Also, sharpening my problem-solving skills through Data Structures and Algorithms (DSA) and participating in competitive programming contests.
 - 🚀 Constantly exploring new technologies and frameworks to stay updated with the latest trends in the tech world.
